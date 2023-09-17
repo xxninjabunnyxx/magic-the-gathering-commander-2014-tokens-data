@@ -1,0 +1,18 @@
+---
+object: set
+id: 58172859-996d-49d0-9016-460714a8ae01
+code: tc14
+name: Commander 2014 Tokens
+uri: https://api.scryfall.com/sets/58172859-996d-49d0-9016-460714a8ae01
+scryfall_uri: https://scryfall.com/sets/tc14
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atc14&unique=prints
+released_at: '2014-11-07'
+set_type: token
+card_count: 36
+parent_set_code: c14
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: cmd
+block: Commander
+icon_svg_uri: https://svgs.scryfall.io/sets/c14.svg?1694404800
